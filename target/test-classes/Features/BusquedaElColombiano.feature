@@ -7,3 +7,4 @@ Scenario: realizar la busqueda de dos noticias
   Given ingreso a la pagina el colombiano caso "001"
   When  selecciono las noticias
   Then  tomo las evidencias de ellas
+
